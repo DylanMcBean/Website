@@ -25,6 +25,9 @@
   border-right: 1px solid rgb(0, 0, 0);
   background-color: rgb(32, 32, 44);
   color: rgb(160, 168, 189);
+  width: 120px;
+  height: 35px;
+  min-width: fit-content;
 }
 
 .topnav .page-holder.active {
