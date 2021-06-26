@@ -19,16 +19,3 @@
   background: #16161f;
   color: white;
 }
-
-/* Add a color to the active/current link */
-.topnav .page-holder {
-  display: inline;
-  width: 200px;
-  border: #000000;
-  border-width: 2px;
-}
-
-.active {
-  background-color: #323044;
-  color: white;
-}
