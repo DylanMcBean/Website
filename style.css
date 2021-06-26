@@ -22,8 +22,8 @@
 /* Add a color to the active/current link */
 .topnav .page-holder {
   display: inline;
-  min-width: 200px;
-  min-height: 40px;
+  width: 200px;
+  height: 40px;
   border: #16161f;
   border-width: 2px;
 }
