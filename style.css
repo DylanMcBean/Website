@@ -25,7 +25,3 @@
   background-color: #323044;
   color: white;
 }
-
-.topnav .page-holder :before {
-  content: '<i class="material-icons">home</i>';
-}
