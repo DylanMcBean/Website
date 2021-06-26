@@ -27,7 +27,8 @@
 
 .topnav .page-holder {
   display: inline;
-  min-width: 100px;
-  min-height: 20px;
+  min-width: 200px;
+  min-height: 40px;
   border: #16161f;
+  border-width: 2px;
 }
