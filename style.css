@@ -34,3 +34,7 @@
   background-color: rgb(50, 48, 68);
   color: rgb(214, 214, 214);
 }
+
+.icon-align {
+  vertical-align: text-bottom;
+}
