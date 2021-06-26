@@ -26,6 +26,6 @@
   color: white;
 }
 
-.topnav .page-holder {
-  display: block;
+.topnav .page-holder :before {
+  content: '<i class="material-icons">home</i>';
 }
