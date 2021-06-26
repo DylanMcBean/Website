@@ -27,5 +27,5 @@
 }
 
 .topnav .page-holder {
-  border: 5px outset red;
+  display: block;
 }
