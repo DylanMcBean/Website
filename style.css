@@ -25,3 +25,7 @@
   background-color: #323044;
   color: white;
 }
+
+.topnav .page-holder {
+  display: inline;
+}
