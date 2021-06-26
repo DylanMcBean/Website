@@ -3,7 +3,7 @@
   background-color: #20202c;
   overflow: hidden;
   height: fit-content;
-  display: contents;
+  display: flex;
 }
 
 /* Style the links inside the navigation bar */
