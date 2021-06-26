@@ -5,7 +5,7 @@
 }
 
 /* Style the links inside the navigation bar */
-.topnav a {
+.topnav .page-holder a {
   float: left;
   color: #a0a8bd;
   text-align: center;
@@ -15,13 +15,17 @@
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+.topnav .page-holder a:hover {
   background: #16161f;
   color: white;
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.topnav .page-holder a.active {
   background-color: #323044;
   color: white;
+}
+
+.topnav .page-holder {
+  border: 5px outset red;
 }
