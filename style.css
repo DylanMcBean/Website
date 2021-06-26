@@ -2,6 +2,7 @@
 .topnav {
   background-color: #20202c;
   overflow: hidden;
+  height: 40px;
 }
 
 /* Style the links inside the navigation bar */
@@ -23,7 +24,6 @@
 .topnav .page-holder {
   display: inline;
   width: 200px;
-  height: 40px;
   border: #16161f;
   border-width: 2px;
 }
