@@ -28,4 +28,6 @@
 
 .topnav .page-holder {
   display: inline;
+  min-width: 100px;
+  border: #16161f;
 }
