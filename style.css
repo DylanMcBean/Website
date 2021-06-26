@@ -20,12 +20,9 @@
 }
 
 /* Add a color to the active/current link */
-.topnav .active {
+.topnav .page-holder .active {
   background-color: #323044;
   color: white;
-}
-
-.topnav .page-holder {
   display: inline;
   min-width: 200px;
   min-height: 40px;
