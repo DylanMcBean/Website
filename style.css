@@ -10,13 +10,13 @@
 .topnav .page-holder a {
   color: #a0a8bd;
   text-align: center;
-  padding: 14px 16px;
+  padding: 14px 4px;
   text-decoration: none;
   font-size: 17px;
 }
 
 /* Change the color of links on hover */
-.topnav .page-holder a:hover {
+.topnav .page-holder :hover {
   background: #16161f;
   color: white;
 }
