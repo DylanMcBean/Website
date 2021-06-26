@@ -2,7 +2,7 @@
 .topnav {
   background-color: #20202c;
   overflow: hidden;
-  height: 40px;
+  height: fit-content;
   display: flex;
 }
 
@@ -22,7 +22,6 @@
 }
 
 .topnav .page-holder {
-  left: auto;
   border-right: 1px solid rgb(0, 0, 0);
   background-color: rgb(32, 32, 44);
   color: rgb(160, 168, 189);
