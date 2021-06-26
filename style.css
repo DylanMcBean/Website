@@ -20,7 +20,7 @@
 }
 
 /* Add a color to the active/current link */
-.topnav .page-holder .active {
+.topnav .active {
   background-color: #323044;
   color: white;
 }
