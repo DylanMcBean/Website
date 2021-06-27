@@ -257,3 +257,24 @@ body {
   color: #fff;
   content: "About: ";
 }
+
+.project-details #Id {
+  font-size: 16px;
+  color: #a4bd00;
+  position: absolute;
+  left: 20px;
+  bottom: 0px;
+}
+
+#Id::before {
+  color: #fff;
+  content: "ID: ";
+}
+
+.project-details #Date {
+  font-size: 16px;
+  color: #a0a8bd;
+  position: absolute;
+  right: 20px;
+  bottom: 0px;
+}
