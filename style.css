@@ -34,3 +34,8 @@
   background-color: rgb(50, 48, 68);
   color: rgb(214, 214, 214);
 }
+
+.topnav .page-holder i{
+  font-size:28px; 
+  margin-top: 5px;
+}
