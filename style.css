@@ -9,6 +9,7 @@ body {
   overflow: hidden;
   width: auto;
   height: auto;
+  max-height: fit-content;
   display: flex;
 }
 
@@ -27,7 +28,7 @@ body {
     border 1s cubic-bezier(0.19, 1, 0.22, 1),
     color 0.6s cubic-bezier(0.19, 1, 0.22, 1);
   user-select: none;
-  width: auto;
+  max-width: 25%;
 }
 
 .button a {
@@ -81,7 +82,8 @@ body {
   padding: 0px 10px;
   font-size: 18px;
   position: relative;
-  bottom: 5px;
+  bottom: 7px;
+  align-content: center;
 }
 
 .topnav .page-holder :hover {
