@@ -250,8 +250,9 @@ body {
 }
 
 .project-details #Paragraph {
-  font-size: 16px;
+  font-size: 24px;
   color: #969696;
+  margin: 0 20;
 }
 
 #Paragraph::before {
