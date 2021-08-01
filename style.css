@@ -336,13 +336,27 @@ body {
   border-radius: 30px;
 }
 
+.textblock {
+  position: relative;
+  align-content: center;
+  text-align: center;
+  width: 70%;
+  margin: 50px;
+  padding: 20px;
+  font-size: 24px;
+  color: #a0a8bd;
+  background: #20202c;
+  border-radius: 30px;
+  margin: 100 auto 0 auto;
+}
+
 .about-languages {
   margin: 0 auto 0 auto;
-  width: 70%;
+  width: 45%;
   justify-content: center;
 }
 
 .about-languages img {
-  width: 80px;
-  height: 80px;
+  width: 64px;
+  height: 64px;
 }
