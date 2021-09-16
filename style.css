@@ -4,6 +4,10 @@ body {
   font-family: "Helvetica";
 }
 
+a { 
+  text-decoration: none; 
+}
+
 .topnav {
   background-color: #20202c;
   overflow: hidden;
@@ -262,14 +266,15 @@ body {
 
 .project-details #View {
   font-size: 30px;
-  color: #969696;
-  margin: 0 20;
-  bottom: 20px;
+  position:absolute;
+  bottom: 30px;
+  width: 100%;
+  text-align: center;
 }
 
 #View::before {
   color: #fff;
-  content: "Click Me: ";
+  content: "Click: ";
 }
 
 .project-details #Id {
