@@ -260,6 +260,18 @@ body {
   content: "About: ";
 }
 
+.project-details #View {
+  font-size: 30px;
+  color: #969696;
+  margin: 0 20;
+  bottom: 20px;
+}
+
+#View::before {
+  color: #fff;
+  content: "Click Me: ";
+}
+
 .project-details #Id {
   font-size: 16px;
   color: #a4bd00;
